@@ -112,7 +112,7 @@ $(function(){
 		});
 		popupSize(); // 제일 처음 모달 팝업창 사이즈 셋팅
 	});
-	/* 여기 jun_modal-popup 종료 */
+	/* 여기까지 jun_modal_popup 종료 */
 	
 });
 
