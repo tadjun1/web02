@@ -361,8 +361,8 @@ display: block;
 .d-con img {
 	cursor: url(../img/ico_resize.png) 30 30, auto;
 }
-/*여기서 부터 jun_modal-popup 스타일*/
-/* Code by tadjun@naver.com */
+/*여기부터 jun_modal_popup 스타일*/
+/* jun_modal_popup Code by tadjun@naver.com */
 .modal-popup {
 	display: none;
 }
