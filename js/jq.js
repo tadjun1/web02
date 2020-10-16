@@ -53,7 +53,7 @@ $(function(){
 	});
 	
 	/* 여기 부터 jun_modal-popup 시작 */
-	/* Code by tadjun@gmail.com */
+	/* Code by tadjun@naver.com */
 	/* img의 이미지가 작은 경우 img를 a태그로 감싸고 보여주고 싶은 이미지의 주소를 a태그의 href에 연결 하세요. */
 	$('.modal-popup').each(function () {
 		var $modalPop = $(this),
